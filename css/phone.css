@@ -1,0 +1,32 @@
+.head-title, .left-leaf, .right-leaf {
+    font-size: 50px;
+}
+.heading {
+    height: 30vh;
+}
+.beige-half, .green-half {
+    padding: 25px 0px;
+    grid-template-columns: auto;
+    overflow-x: auto;
+    justify-items: center;
+}
+.header-grid{
+    grid-area: 1 / span 1;
+}
+.paragraph {
+    grid-area: 2 / span 1;
+}
+/* Table */
+.center-table {
+    grid-area: 3 / span 1;
+}
+.update-button:link, .update-button:visited, .delete-button:link, .delete-button:visited {
+    margin: 0;
+    padding: 0;
+}
+
+caption {
+    font-weight: var(--main-font-weight);
+    font-size: 20px;
+    padding: 0;
+}
