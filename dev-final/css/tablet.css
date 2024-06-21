@@ -1,0 +1,16 @@
+.heading {
+    height: 35vh;
+}
+.beige-half, .green-half {
+    grid-template-columns: auto auto;
+    justify-content: space-evenly;
+}
+.header-grid {
+    grid-area: 1 / span 2;
+}
+.paragraph {
+    grid-area: 2 / span 2;
+}
+.center-table {
+    grid-area: 3 / span 2;
+}
