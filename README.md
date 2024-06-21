@@ -24,4 +24,5 @@ Group membership Table: Connects users and groups (many-to-many relationship).
 ![ER diagram](https://github.com/TseringLhakhang/Local-Adventures-Website/blob/main/erd.png)
 
 ### Demo
-[![Website Demo](https://img.youtube.com/vi/IwkoVa5_Zk/0.jpg)](https://www.youtube.com/watch?v=_IwkoVa5_Zk)
+Below is the youtube video which will demonstrate the insert, update, and delete adventures functionality of the site and the ability to join groups and leave reviews.
+![Website Demo](https://www.youtube.com/watch?v=_IwkoVa5_Zk)
