@@ -24,5 +24,4 @@ Group membership Table: Connects users and groups (many-to-many relationship).
 ![ER diagram](https://github.com/TseringLhakhang/Local-Adventures-Website/blob/main/erd.png)
 
 ### Demo
-https://youtu.be/_IwkoVa5_Zk
-[![Website Demo](https://youtu.be/_IwkoVa5_Zk/0.jpg)](https://youtu.be/_IwkoVa5_Zk "Website Demo")
+[![Website Demo](https://img.youtube.com/vi/IwkoVa5_Zk/0.jpg)](https://www.youtube.com/watch?v=_IwkoVa5_Zk)
