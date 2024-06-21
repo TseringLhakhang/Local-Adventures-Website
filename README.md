@@ -25,5 +25,5 @@ The Local Adventures is a dynamic web platform designed to bring together local 
 ### Demo
 Below is the youtube video which will demonstrate the insert, update, and delete adventures functionality of the site and the ability to join groups and leave reviews.
 
-![Website Demo](https://www.youtube.com/watch?v=_IwkoVa5_Zk).
+[![Website Demo](https://img.youtube.com/vi/_IwkoVa5_Zk/0.jpg)](https://www.youtube.com/watch?v=_IwkoVa5_Zk)
 
